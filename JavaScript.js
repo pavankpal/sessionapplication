@@ -1,0 +1,1 @@
+﻿window.History = window.history.forward(0);
